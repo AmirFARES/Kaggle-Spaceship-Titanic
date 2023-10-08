@@ -70,7 +70,7 @@ Key files related to this project:
 
 10. **Ensemble Modeling**: To further enhance accuracy, I selected the top-performing models (the best six performers) and created a simple weighted ensemble. This ensemble played a significant role in achieving the impressive accuracy score.
 
-11. **Making Predictions**: Finally, I used the ensemble model to make predictions on the test data and formatted the results according to the competition's requirements. The predictions can be found in the [**result.csv**](./result).
+11. **Making Predictions**: Finally, I used the ensemble model to make predictions on the test data and formatted the results according to the competition's requirements. The predictions can be found in the [**result.csv**](./result.csv).
 
 
 For detailed implementation and analysis, please refer to [**My Notebook**](./spaceship-titanic-weighted-ensemble.ipynb) or [**My Kaggle Notebook**](https://www.kaggle.com/code/amirfares/spaceship-titanic-weighted-ensemble).
